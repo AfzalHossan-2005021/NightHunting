@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="450" viewBox="0 0 800 450">
+  <rect width="100%" height="100%" fill="#2b0b0b"/>
+  <rect x="80" y="80" width="640" height="290" rx="12" fill="#3a0b2f" stroke="#ef476f" stroke-width="6"/>
+  <text x="400" y="180" fill="#ffd166" font-size="40" font-family="Arial" text-anchor="middle">Game Over</text>
+  <text x="400" y="260" fill="#fff" font-size="18" font-family="Arial" text-anchor="middle">Final Score: 6789</text>
+  <text x="400" y="320" fill="#c0c0c0" font-size="14" font-family="Arial" text-anchor="middle">Press R to Restart • Esc to Exit</text>
+</svg>
