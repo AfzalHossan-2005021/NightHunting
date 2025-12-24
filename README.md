@@ -114,7 +114,9 @@ Contributions are welcome — open a PR with bug fixes, documentation improvemen
 
 ## 📄 License
 
-This project is provided as-is. Add your license information here (e.g., MIT, GPL) if you want to clarify reuse terms.
+This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for the full license text.
+
+Copyright (c) 2022 Afzal Hossan
 
 ---
 
