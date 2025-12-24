@@ -122,8 +122,4 @@ Copyright (c) 2022 Afzal Hossan
 
 ## ✉️ Contact
 
-For questions or help, open an issue or contact the repository owner.
-
----
-
-> Tip: Replace the SVG placeholders in `images/` with real screenshots (`PNG` recommended) and add a short demo GIF to make the project page even more enticing.
+For questions or help, open an issue or contact with me.
